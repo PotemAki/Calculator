@@ -1,7 +1,14 @@
+@media (max-width: 360px) {
+  .partsOfCalculator{
+    border: none;
+  }
+}
 body{
   background-color: black;
   margin-top: 20px;
   font-family: Arial, Helvetica, sans-serif;
+  justify-self: center;
+  align-items: center;
 }
 .text-box{
   height: 40px;
