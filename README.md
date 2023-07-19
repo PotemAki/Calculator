@@ -1,3 +1,3 @@
 Simple Calculator
 
-https://potemaki.github.io/calctest/
+https://potemaki.github.io/Calculator/
